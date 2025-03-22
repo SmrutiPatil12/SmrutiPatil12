@@ -1,5 +1,5 @@
 -  Hi, I’m Smruti Patil 
-- 👀 I’m Front End developer + C//Java
+- 👀 I’m Front End developer + C/Java
 - 🌱 Pursuing BTech Computer Science and Enginnering Degree at CSMSS Chh. Shahu College and Engineering 
 
 
